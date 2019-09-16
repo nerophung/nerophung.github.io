@@ -1,0 +1,44 @@
+title: Nero's Blog
+description: Everything comes from an idea. Just do it and keep your motivation!
+permalink: :year/:month/:day/:title
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://nerophung.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+site-twitter: #if your site has a twitter account, enter it here
+remote_theme: artemsheludko/flexible-jekyll
+# Author Settings
+author: Nero Phung # add your name
+author-img: nerophung.png # add your photo
+about-author: Everything comes from an idea. Just do it and keep your motivation # add description
+social-twitter: nerophung # add your Twitter handle
+social-facebook: nerophung.io # add your Facebook handle
+social-github: nerophung # add your Github handle
+social-linkedin: nerophung # add your Linkedin handle
+social-email: nerophung.io@gmail.com # add your Email address
+
+# Disqus
+discus-identifier: nerophung # add your discus identifier
+
+# Facebook-comment
+num-facebook-comment:  # Leave empty mean disable
+# Facebook like & share button:
+facebook-like-share: True # Enable facebook like button
+facebook-like-layout: button_count # Type: standard, box_count, button_count, button
+facebook-like-action: like # like, recommend
+facebook-like-size: small # small, large
+
+
+# Tracker
+analytics: # Google Analytics
+# Hightlight code
+highlighter: rouge
+# Build Settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+
+paginate: 5
+paginate_path: "/page/:num"
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]
