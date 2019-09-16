@@ -6,7 +6,8 @@ description: tu hoc tensorflow, linear regression
 img: 2019-03-28-tu-hoc-tensorflow-p4/tensorflow.jpg # Add image post (optional)
 image-dir: /assets/img/2019-03-28-tu-hoc-tensorflow-p4
 fig-caption: # Add figcaption (optional)
-tags: [Tensorflow]
+category: [Tensorflow]
+tags: [Self Learning Tensorflow]
 permalink: /2019/03/28/tu-hoc-tensorflow-p4
 ---
 Ngoài những bài học lí thuyết từ phần trước [Tự học Tensorflow [P3] - Dataset, Layer]({{site.url}}/tu-hoc-tensorflow-p3) thì chúng ta cũng cần những giờ thực hành để ghi nhớ kiến thức, trong phạm vi bài viết này mình sẽ chia sẻ về cách giải quyết một bài toán **`Linear Regression`** đơn giản bằng **Tensorflow**. Nếu chưa theo dõi nhưng phần trước thì bạn có thể tham khảo thêm:

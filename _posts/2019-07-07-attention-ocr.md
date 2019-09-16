@@ -6,7 +6,8 @@ description: attention ocr, ky thuat attention, optical character recognition, a
 img: 2019-07-07-attention-ocr/ocr.jpg # Add image post (optional)
 image-dir: /assets/img/2019-07-07-attention-ocr
 fig-caption: # Add figcaption (optional)
-tags: [Paper Review]
+category: [Paper Review]
+tags: [Attention Mechanism]
 permalink: /2019/07/07/attention-ocr
 ---
 Từ bài viết trước mình có đề cập tới vấn đề sử dụng kĩ thuật Attention trong Computer Vision. Khi gặp mặt một người, để quyết định xem đó có phải người quen của mình không, ta thường chú ý vào khuôn mặt của người đó. Xét trên khía cạnh hình ảnh, thì lúc đó ta chỉ tập trung vào lượng thông tin ở vùng ảnh ở khuôn mặt. Trong bài viết này, mình xin giới thiệu tới bạn đọc một cấu trúc RNN + CNN + Attention Mechanism giúp giải quyết bài toán OCR (Optical Character Recognition). Cụ thể, cấu trúc này đã đạt được 84.2% trên tập dữ liệu biển báo ở Pháp - FSNS (French Street Name Signs), mở ra một hướng đi mới cho bài toán nhận dạng chữ. Thông tin chi tiết bạn đọc có thể tham khảo trong bài báo [Attention-based Extraction of Structured Information from Street View Imagery](https://arxiv.org/pdf/1704.03549)

@@ -6,7 +6,8 @@ description:  tim hieu ve softmax activation, ham softmax la gi, ham kich hoat s
 img: 2019-07-06-ham-softmax/neural_network.png # Add image post (optional)
 image-dir: /assets/img/2019-07-06-ham-softmax
 fig-caption: # Add figcaption (optional)
-tags: [Architectures and Algorithms]
+category: [Architectures and Algorithms]
+tags: [Mathematic]
 permalink: /2019/07/06/ham-softmax
 ---
 Trong những bài toán về phân lớp (classification), nhìn vào cấu trúc mạng chúng ta thường thấy sự xuất hiện của hàm **Softmax** ở những layer cuối. Hay như trong bài viết trước [NLP [P5] - Tìm hiểu về Attention Mechanism]({{site.url}}/2019/07/05/ky-thuat-attention) mình cũng có đề cập tới việc sử dụng hàm Softmax để tính được trọng số. Vậy hàm Softmax là gì? Tại sao lại sử dụng nó?

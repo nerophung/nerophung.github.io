@@ -6,7 +6,8 @@ description: tu hoc tensorflow, tensor la gi
 img: 2019-06-02-tu-hoc-tensorflow-p6/tensorflow.jpg # Add image post (optional)
 image-dir: /assets/img/2019-06-01-tu-hoc-tensorflow-p6
 fig-caption: # Add figcaption (optional)
-tags: [Tensorflow]
+category: [Tensorflow]
+tags: [Self Learning Tensorflow]
 permalink: /2019/05/28/tu-hoc-tensorflow-p6
 ---
 Tiếp tục series về Tensorflow, trong phạm vi bài viết này, mình sẽ đi sâu vào một thành phần chính của Tensorflow đó chính là **tf.Tensor**. Nếu đây là lần đầu tiếp xúc với Tensorlfow, bạn có thể tham khảo những bài viết trước của mình.

@@ -6,7 +6,8 @@ description:  Review Single Shot Detector for Object Detection, ssd la gi, singl
 img: 2019-06-15-ssd-single-shot-detector/ssd.png # Add image post (optional)
 image-dir: /assets/img/2019-06-15-ssd-single-shot-detector
 fig-caption: # Add figcaption (optional)
-tags: [Paper Review]
+category: [Paper Review]
+tags: [Object Detection]
 permalink: /2019/06/15/ssd-single-shot-detector
 ---
 Trong bài viết này, mình sẽ giải thích về cấu trúc mạng SSD - Single Shot Detector dùng trong bài toàn Object Detection. Bạn đọc có thể tham khảo kĩ hơn tại [Single Shot MultiBox Detector](https://arxiv.org/pdf/1512.02325.pdf)

@@ -6,7 +6,8 @@ description:  Kỹ thuật Attention trong Dịch Máy, attention mechanism, mac
 img: 2019-07-05-ky-thuat-attention/attention.jpg # Add image post (optional)
 image-dir: /assets/img/2019-07-05-ky-thuat-attention
 fig-caption: # Add figcaption (optional)
-tags: [Paper Review]
+category: [Paper Review]
+tags: [Attention Mechanism]
 permalink: /2019/07/05/ky-thuat-attention
 ---
 Trong bài viết trước [NLP [P3] - Seq2Seq Model - Hạt nhân của Google Translate]({{site.url}}/2019/05/18/nlp-p3) mình có đề cập tới kỹ thuật **Attention** hiện nay đang được sử dụng bởi **Google Translate** cùng với cấu trúc **Encoder-Decoder**. Đây là một kĩ thuật đã thay đổi khá nhiều hiệu quả của mảng Dịch Máy, ngoài ra, kỹ thuật này cũng được sử dụng trong một số những mảng khác như Computer Vision. Trong bài viết này, mình xin giới thiệu với bạn đọc kỹ thuật **Attention** được sử dụng với mô hình **Seq2Seq** trong bài toán Dịch Máy. Các bạn có thể tham khảo kĩ hơn trong bài báo [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473)

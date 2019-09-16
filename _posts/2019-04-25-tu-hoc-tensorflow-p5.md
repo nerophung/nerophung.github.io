@@ -6,7 +6,8 @@ description:  tu hoc tensorflow, tao tfrecord
 img: 2019-04-25-tu-hoc-tensorflow-p5/tensorflow.jpg # Add image post (optional)
 image-dir: /assets/img/2019-06-01-tu-hoc-tensorflow-p5
 fig-caption: # Add figcaption (optional)
-tags: [Tensorflow]
+category: [Tensorflow]
+tags: [Self Learning Tensorflow]
 permalink: /2019/04/25/tu-hoc-tensorflow-p5
 ---
 Trong phần trước [Tự học Tensorflow [P4] - Linear Regression with Tensorflow]({{site.url}}/tu-hoc-tensorflow-p4) mình đã thực hiện giải quyết bài toán **`Linear Regression`** bằng những lý thuyết đã giới thiệu trong những bài viết trước đó của **`Tensorflow`**. Hôm nay, mình sẽ tiếp tục giới thiệu cách chuẩn bị dữ liệu training cho bài toán **Classification** đơn giản. Nếu chưa theo dõi nhưng phần trước thì bạn có thể tham khảo thêm:

@@ -6,7 +6,8 @@ description:  miniconda, cach su dung miniconda, python packages
 img: 2019-01-24-cach-su-dung-miniconda-de-quan-ly-python-packages/python_env_management_with_conda.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 image-dir: /assets/img/2019-01-24-cach-su-dung-miniconda-de-quan-ly-python-packages
-tags: [Ultilities]
+category: [Ultilities]
+tags: [Miniconda, Python Packages]
 permalink: /2019/01/24/cach-su-dung-miniconda-de-quan-ly-python-packages
 ---
 >Khi lập trình với Python, việc phải cài đặt thêm các package là điều dĩ nhiên cần phải có. Điều này có thể dễ dàng đạt được với câu lệnh `pip install <package_name>.` Tuy nhiên, khi làm việc với một dự án lớn, việc thay đổi phiên bản python, hay phiên bản của các package có thể gây khá nhiều phiền toái cho những bạn mới bắt đầu. Trong bài viết này, mình sẽ hướng dẫn cách để có thể quản lý các python package với công cụ Miniconda.

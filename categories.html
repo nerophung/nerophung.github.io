@@ -1,0 +1,29 @@
+---
+layout: main
+title: Categories
+permalink: /categories/
+---
+{% assign list_categories = site.categories | sort%}
+
+<section class="blog-tags">
+  <h1>Categories</h1>
+  <ul class="tags">
+  <!--  cycles through tag list and creates header row of all tags used in site with accompanying per-tag counts...-->
+  {% for category in list_categories %}
+    <li ><a href="{{ site.baseurl }}{{ post.url }}" class="tag">{{ category[0] }} <span>({{ category[1].size }})</span></a></li>
+  {% endfor %}
+  </ul>
+  <!--cycles through tag list and creates subheader for each tag name...-->
+  {% for category in list_categories %}
+  <h2 id="{{ category[0] | downcase | url_escape | strip | replace: ' ', '-' }}">{{ category[0] | camelcase }}</h2>
+  <!--  lists all posts corresponding to specific tag...-->
+      {% assign pages_list = category[1] %}
+      {% for post in pages_list %}
+      {% if post.title != null %}
+      <div class="tag-list">
+          <span><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></span>
+          <small><span>| {{ post.date | date_to_string }}</span></small>
+      </div>
+      {% endif %}{% endfor %}
+  {% endfor %}
+</section>

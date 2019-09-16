@@ -6,7 +6,8 @@ description: hoc xu ly anh, xu ly anh la gi, học xử lý ảnh, hoc xu li anh
 img: 2019-08-29-hoc-xu-ly-anh/opencv.png # Add image post (optional)
 image-dir: /assets/img/2019-08-29-hoc-xu-ly-anh
 fig-caption: # Add figcaption (optional)
-tags: [Computer Vision]
+category: [Computer Vision]
+tags: [Digital Image Processing]
 permalink: /2019/08/29/hoc-xu-ly-anh
 ---
 Trong bài viết này, tác giả sẽ cung cấp những kiến thức cần thiết cho những người có nhu cầu tìm hiểu về Xử lý ảnh số (viết tắt XLA) hoặc những người tò mò muốn biết Xử lí ảnh số gồm những bài toán nào, làm gì. Bài viết được tham khảo và tổng kết từ series [OpenCV-Python Tutorials](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_tutorials.html) của **OpenCV**. Ngôn ngữ sử dụng chính trong bài viết là *Python*

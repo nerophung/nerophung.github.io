@@ -6,7 +6,8 @@ description:  tu hoc tensorflow, session la gi
 img: 2019-02-26-tu-hoc-tensorflow-p2/tensorflow.jpg # Add image post (optional)
 image-dir: /assets/img/2019-02-26-tu-hoc-tensorflow-p2
 fig-caption: # Add figcaption (optional)
-tags: [Tensorflow]
+category: [Tensorflow]
+tags: [Self Learning Tensorflow]
 permalink: /2019/02/26/tu-hoc-tensorflow-p2
 ---
 Tiếp tục series [Tự học Tensorflow [P1] - Tensor, Graph, TensorBoard]({{site.url}}/tu-hoc-tensorflow-p1) , hôm nay mình xin chia sẻ tiếp về quá trình học tập của mình. Nếu có gì không đúng mọi người comment ở cuối bài viết nhé :D

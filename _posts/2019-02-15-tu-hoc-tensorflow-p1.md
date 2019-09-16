@@ -6,7 +6,8 @@ description:  tu hoc tensorflow, tensor la gi, cach su dung tensorboard
 img: 2019-02-15-tu-hoc-tensorflow-p1/tensorflow.jpg # Add image post (optional)
 image-dir: /assets/img/2019-02-15-tu-hoc-tensorflow-p1
 fig-caption: # Add figcaption (optional)
-tags: [Tensorflow]
+category: [Tensorflow]
+tags: [Self Learning Tensorflow]
 permalink: /2019/02/15/tu-hoc-tensorflow-p1
 ---
 Nhằm đáp ứng nhu cầu công việc của team AI, nên gần đây mình cần tìm hiểu về **Tensorflow**. Trong chuỗi blog này mình xin chia sẻ về những kiến thức mình đã tìm hiểu được về **Tensorflow**, vừa là hệ thống lại kiến thức đồng thời giúp những thành viên khác trong team có thể tiếp cận với **Tensorlfow** tốt hơn. Trong bài viết nếu có phần nào không đúng mong mọi người góp ý ở cuối bài viết :D

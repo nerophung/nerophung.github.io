@@ -6,7 +6,8 @@ description:  tu hoc tensorflow, tensorflow layer
 img: 2019-03-11-tu-hoc-tensorflow-p3/tensorflow.jpg # Add image post (optional)
 image-dir: /assets/img/2019-03-11-tu-hoc-tensorflow-p3
 fig-caption: # Add figcaption (optional)
-tags: [Tensorflow]
+category: [Tensorflow]
+tags: [Self Learning Tensorflow]
 permalink: /2019/03/11/tu-hoc-tensorflow-p3
 ---
 Ở phần trước [Tự học Tensorflow [P2] - Session, Feeding]({{site.url}}/tu-hoc-tensorflow-p2), mình đã nhắc tới 2 thành phần cơ bản của **Tensorflow** đó là **`tf.Session`** và **`Feeding`**. Trong phạm vi bài viết này, mình xin đề cập tới 2 nội dung quan trọng khi training một models với Tensorflow. Nếu chưa theo dõi nhưng phần trước thì bạn có thể tham khảo thêm:
