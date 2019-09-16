@@ -19,7 +19,7 @@ social-email: nerophung.io@gmail.com # add your Email address
 discus-identifier: nerophung # add your discus identifier
 
 # Facebook-comment
-num-facebook-comment:  # Leave empty mean disable
+num-facebook-comment:  10 # Leave empty mean disable
 # Facebook like & share button:
 facebook-like-share: True # Enable facebook like button
 facebook-like-layout: button_count # Type: standard, box_count, button_count, button
