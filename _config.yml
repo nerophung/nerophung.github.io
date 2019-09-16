@@ -25,6 +25,7 @@ facebook-like-share: True # Enable facebook like button
 facebook-like-layout: button_count # Type: standard, box_count, button_count, button
 facebook-like-action: like # like, recommend
 facebook-like-size: small # small, large
+facebook-like-share-button: false
 
 
 # Tracker
