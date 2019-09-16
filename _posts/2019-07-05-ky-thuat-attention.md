@@ -12,6 +12,9 @@ permalink: /2019/07/05/ky-thuat-attention
 ---
 Trong bài viết trước [NLP [P3] - Seq2Seq Model - Hạt nhân của Google Translate]({{site.url}}/2019/05/18/nlp-p3) mình có đề cập tới kỹ thuật **Attention** hiện nay đang được sử dụng bởi **Google Translate** cùng với cấu trúc **Encoder-Decoder**. Đây là một kĩ thuật đã thay đổi khá nhiều hiệu quả của mảng Dịch Máy, ngoài ra, kỹ thuật này cũng được sử dụng trong một số những mảng khác như Computer Vision. Trong bài viết này, mình xin giới thiệu với bạn đọc kỹ thuật **Attention** được sử dụng với mô hình **Seq2Seq** trong bài toán Dịch Máy. Các bạn có thể tham khảo kĩ hơn trong bài báo [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/pdf/1409.0473)
 
+* TOC
+{:toc}
+
 ## Get the ball rolling
 
 Tưởng tượng bạn đang đi trên phố, có vô số người lướt qua mặt bạn, vậy để làm thế nào để bạn có thể nhận biết được đó là người quen hay không? Dĩ nhiên rồi, nhìn mặt là biết. Vậy hành động của bạn chỉ có **nhìn mặt** chứ không phải nhìn trang phục, chân, tay... hay chính xác là bạn chỉ chú ý (attention) vào khuôn mặt của người đó. Trong dịch máy cũng vậy, ví dụ bạn cần dịch câu sau sang tiếng Anh:

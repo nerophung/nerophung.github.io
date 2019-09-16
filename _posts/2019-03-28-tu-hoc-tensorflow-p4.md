@@ -15,6 +15,9 @@ Ngoài những bài học lí thuyết từ phần trước [Tự học Tensorfl
 * [2.Tự học Tensorflow [P2] - Session, Feeding]({{site.url}}/tu-hoc-tensorflow-p2)
 * [3.Tự học Tensorflow [P3] - Dataset, Layer]({{site.url}}/tu-hoc-tensorflow-p3)
 
+* TOC
+{:toc}
+
 ## Linear Regression là gì?
 [**Linear Regression**](https://en.wikipedia.org/wiki/Linear_regression) hay còn được gọi là **Hồi Quy Tuyến Tính** là một trong những thuật toán *Supervised learning* cơ bản của Machine Learning. Chắc hẳn khi học THCS hay THPT chúng ta đã khá quen thuộc với phương trình hàm số `y = ax + b` với `x` là biến số. Tuy nhiên ngược lại với bài toán này, ta coi `a` và `b` là biến số và tiến hành tìm `a` và `b` dựa trên tập `x` và `y` có sẵn. Bài toán này trong thực tế có khá nhiều, ví dự như khi ta muốn dự đoán `số năm kinh nghiệm` của một PHP Developer dựa trên số tuổi của lập trình viên đó trên tập dữ liệu của toàn bộ lập trình viên đã làm việc trước đó tại công ty.
 

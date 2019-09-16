@@ -14,6 +14,9 @@ Tiếp tục series về Tensorflow, trong phạm vi bài viết này, mình s�
 * [1.Tự học Tensorflow [P4] - Linear Regression with Tensorflow]({{site.url}}/tu-hoc-tensorflow-p4)
 * [2.Tự học Tensorflow [P5] - Tạo TFRecord file dùng cho Training]({{site.url}}/tu-hoc-tensorflow-p5)
 
+* TOC
+{:toc}
+
 ## Tensor là gì 
 Như mình đã đề cập ở [phần 1]({{site.url}}/tu-hoc-tensorflow-p1), đơn vị dữ liệu chính của Tensorflow là Tensor. Tensor là thể hiện của các vector, matrix với số chiều lớn. Tensorflow biểu diễn Tensor như một mảng của các kiểu dữ liệu cơ bản với số chiều lớn. 
 Khi viết một chương trình Tensorflow thì đối tượng mà chúng ta thao tác và xử lí nhiều nhất là **`tf.Tensor`**. Một đối tượng `tf.Tensor` sẽ định nghĩa một phần tính toán và cuối cùng trả về giá trị của nó khi được khởi chạy. Một chương trình Tensorflow là một Graph có chứa các Tensor được liên kết với nhau, định nghĩa các mà mỗi Tensor được tính toán mà mối quan hệ giữa các Tensor.

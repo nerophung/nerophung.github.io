@@ -12,6 +12,9 @@ permalink: /2019/06/15/ssd-single-shot-detector
 ---
 Trong bài viết này, mình sẽ giải thích về cấu trúc mạng SSD - Single Shot Detector dùng trong bài toàn Object Detection. Bạn đọc có thể tham khảo kĩ hơn tại [Single Shot MultiBox Detector](https://arxiv.org/pdf/1512.02325.pdf)
 
+* TOC
+{:toc}
+
 ## Giới thiệu về SSD - Single Shot Detector
 
 Trước khi bắt đầu vào việc tìm hiểu về cách mà SSD làm việc, chúng ta cùng điểm qua những đặc điểm chính của SSD. Tại mỗi vị trí trên `feature map`, SSD đặt các `default bounding boxes` với kích thước, tí lệ khác nhau. Trong quá trình xử lí, SSD sẽ đánh giá và tìm đối tượng trên các `bounding box` này nhằm tìm ra box phù hợp nhất với đối tượng cần tìm kiếm. Thêm vào đó, bằng việc tìm kiếm trên các feature map khác nhau, SSD có thể tìm kiếm các đối tượng với kích thước khác nhau mà không cần thay đổi kích thước của các `bounding box`. Thực nghiệm cho thấy, SSD đạt 74.3% mAP trên tập test của VOC2007, đạt 59 FPS khi sử dụng Nvidia Titan X với kích thước ảnh đầu vào 512 x 512, nhanh hơn [Faster R-CNN](https://arxiv.org/pdf/1506.01497.pdf).

@@ -14,6 +14,9 @@ permalink: /2019/03/11/tu-hoc-tensorflow-p3
 * [1.Tự học Tensorflow [P1] - Tensor, Graph, TensorBoard]({{site.url}}/tu-hoc-tensorflow-p1)
 * [2.Tự học Tensorflow [P2] - Session, Feeding]({{site.url}}/tu-hoc-tensorflow-p2)
 
+* TOC
+{:toc}
+
 ## Dataset
 Ở bài trước, chúng ta đã biết **`tf.placeholder`** hoạt động giống như một parameter đầu vào của một phương thức. Vậy khi muốn nạp dữ liệu vào theo một luồng dữ liệu thì thứ chúng ta cần là gì? Câu trả lời chính là **`tf.data`**, nó cung cấp một phương thức cho phép truyền một dòng dữ liệu vào trong model.
 

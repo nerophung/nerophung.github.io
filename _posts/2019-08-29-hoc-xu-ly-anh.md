@@ -12,6 +12,9 @@ permalink: /2019/08/29/hoc-xu-ly-anh
 ---
 Trong bài viết này, tác giả sẽ cung cấp những kiến thức cần thiết cho những người có nhu cầu tìm hiểu về Xử lý ảnh số (viết tắt XLA) hoặc những người tò mò muốn biết Xử lí ảnh số gồm những bài toán nào, làm gì. Bài viết được tham khảo và tổng kết từ series [OpenCV-Python Tutorials](https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_tutorials.html) của **OpenCV**. Ngôn ngữ sử dụng chính trong bài viết là *Python*
 
+* TOC
+{:toc}
+
 ## OpenCV là gì?
 OpenCV là viết tắt của Open Computer Vision, như tên gọi, nó là một thư viện mã nguồn mở dành cho Computer Vision - Thị giác máy tính. OpenCV được xây dựng bằng C/C++ và tích hợp trực tiếp với package [Numpy](https://numpy.org/) nên việc xử lý có tốc độ rất nhanh, đáp ứng những ứng dụng yêu cầu thời gian thực. Ngoài ra, OpenCV cũng có thể chạy trên những nền tảng khác nhau như Linux, Window, Mac cũng như những ngôn ngữ khác nhau như Java, Python, C++, ...
 

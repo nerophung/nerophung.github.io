@@ -12,6 +12,9 @@ permalink: /2019/02/15/tu-hoc-tensorflow-p1
 ---
 Nhằm đáp ứng nhu cầu công việc của team AI, nên gần đây mình cần tìm hiểu về **Tensorflow**. Trong chuỗi blog này mình xin chia sẻ về những kiến thức mình đã tìm hiểu được về **Tensorflow**, vừa là hệ thống lại kiến thức đồng thời giúp những thành viên khác trong team có thể tiếp cận với **Tensorlfow** tốt hơn. Trong bài viết nếu có phần nào không đúng mong mọi người góp ý ở cuối bài viết :D
 
+* TOC
+{:toc}
+
 ## [Tensorflow](https://vi.wikipedia.org/wiki/TensorFlow) là gì?
 
 Nói một cách dễ hiểu, **Tensorflow** là một thư viện mã nguồn mở dùng để xử lí cách phép tính toán số học bằng cách mô tả một mô hình biểu đồ thể hiện sự thay đổi về giá trị của dữ liệu. Tiền thân của **Tensorflow** là **DistBelief** - dự án về hệ thống học máy của [Google Brain](https://en.wikipedia.org/wiki/Google_Brain) được phát triển vào năm 2011. **Tensorflow** là dự án thứ 2, được phát hành dưới dạng mã nguồn mở vào 09/11/2015.

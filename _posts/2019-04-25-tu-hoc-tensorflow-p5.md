@@ -15,6 +15,9 @@ Trong phần trước [Tự học Tensorflow [P4] - Linear Regression with Tenso
 * [3.Tự học Tensorflow [P3] - Dataset, Layer]({{site.url}}/tu-hoc-tensorflow-p3)
 * [4.Tự học Tensorflow [P4] - Linear Regression with Tensorflow]({{site.url}}/tu-hoc-tensorflow-p4)
 
+* TOC
+{:toc}
+
 ## Tại sao là TFRecord?
 Với dữ liệu trainng dưới dạng hình ảnh, vấn đề thường xuyên gặp phải khi lưu trữ dữ liệu là số lượng file quá lớn, quản lí nhãn cho mỗi ảnh. Để xử lí việc này, giải pháp được đưa ra đó là lưu trữ nhiều hình ảnh dưới 1 hoặc nhiều file để sử dụng trong khi training. `Tensorflow` có cung cấp một định dạng file đó là **`TFRecord`**
 ## Xử lí dữ liệu

@@ -12,6 +12,9 @@ permalink: /2019/02/26/tu-hoc-tensorflow-p2
 ---
 Tiếp tục series [Tự học Tensorflow [P1] - Tensor, Graph, TensorBoard]({{site.url}}/tu-hoc-tensorflow-p1) , hôm nay mình xin chia sẻ tiếp về quá trình học tập của mình. Nếu có gì không đúng mọi người comment ở cuối bài viết nhé :D
 
+* TOC
+{:toc}
+
 ## Các thành phần chính của Tensorflow
 
 Trong phạm vi bài viết này, mình sẽ đề cập tới những nội dung nằm trong những phần cơ bản của Tensorflow như:

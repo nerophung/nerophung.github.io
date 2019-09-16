@@ -12,6 +12,9 @@ permalink: /2019/07/06/ham-softmax
 ---
 Trong những bài toán về phân lớp (classification), nhìn vào cấu trúc mạng chúng ta thường thấy sự xuất hiện của hàm **Softmax** ở những layer cuối. Hay như trong bài viết trước [NLP [P5] - Tìm hiểu về Attention Mechanism]({{site.url}}/2019/07/05/ky-thuat-attention) mình cũng có đề cập tới việc sử dụng hàm Softmax để tính được trọng số. Vậy hàm Softmax là gì? Tại sao lại sử dụng nó?
 
+* TOC
+{:toc}
+
 ## Exponential Function
 
 Việc đầu tiên cần bàn tới là hàm **Exponential** - Hàm Mũ.

@@ -12,6 +12,9 @@ permalink: /2019/01/24/cach-su-dung-miniconda-de-quan-ly-python-packages
 ---
 >Khi lập trình với Python, việc phải cài đặt thêm các package là điều dĩ nhiên cần phải có. Điều này có thể dễ dàng đạt được với câu lệnh `pip install <package_name>.` Tuy nhiên, khi làm việc với một dự án lớn, việc thay đổi phiên bản python, hay phiên bản của các package có thể gây khá nhiều phiền toái cho những bạn mới bắt đầu. Trong bài viết này, mình sẽ hướng dẫn cách để có thể quản lý các python package với công cụ Miniconda.
 
+* TOC
+{:toc}
+
 ## Đôi điều về Miniconda
 
 Có thể một số bạn đã quen với việc sử dụng Anaconda vì nó cung cấp khá đầy đủ những package khi cài đặt. Tuy nhiên, việc thừa thãi các package có sẵn sẽ chiếm dung lượng bộ nhớ của bạn. Thêm vào đó nó cũng gây khá nhiều phiền toái khi thay đổi phiên bản cho các package. Miniconda giải quyết những vấn đề phía trên, giúp bạn có thể dễ dàng quản lý phiên bản thông qua các **Virtual Environment (env)**. Hiểu đơn giản là với mỗi một dự án cần cài đặt các phiên bản python hay package khác nhau, bạn chỉ cần lưu chúng trong một env nhất định, và khi chuyển qua làm việc với dự án khác, việc bạn cần làm đơn giản chỉ là đổi các env.
