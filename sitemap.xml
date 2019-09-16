@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://nerophung.github.io/</loc>
+  <lastmod>2019-09-16T07:30:15+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://nerophung.github.io/tags/</loc>
+  <lastmod>2019-09-16T07:30:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nerophung.github.io/2019/08/29/hoc-xu-ly-anh</loc>
+  <lastmod>2019-09-16T07:30:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nerophung.github.io/2019/07/25/tim-hieu-ctpn</loc>
+  <lastmod>2019-09-16T07:30:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nerophung.github.io/2019/07/07/attention-ocr</loc>
+  <lastmod>2019-09-16T07:30:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nerophung.github.io/2019/07/06/ham-softmax</loc>
+  <lastmod>2019-09-16T07:30:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nerophung.github.io/2019/07/05/ky-thuat-attention</loc>
+  <lastmod>2019-09-16T07:30:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nerophung.github.io/page/2/</loc>
+  <lastmod>2019-09-16T07:30:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://nerophung.github.io/2019/06/02/nlp-p4</loc>
+  <lastmod>2019-09-16T07:30:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nerophung.github.io/2019/05/18/nlp-p3</loc>
+  <lastmod>2019-09-16T07:30:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nerophung.github.io/2019/05/12/nlp-p2</loc>
+  <lastmod>2019-09-16T07:30:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nerophung.github.io/2019/05/01/nlp-p1</loc>
+  <lastmod>2019-09-16T07:30:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nerophung.github.io/2019/06/15/ssd-single-shot-detector</loc>
+  <lastmod>2019-09-16T07:30:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nerophung.github.io/2019/05/28/tu-hoc-tensorflow-p6</loc>
+  <lastmod>2019-09-16T07:30:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nerophung.github.io/2019/04/25/tu-hoc-tensorflow-p5</loc>
+  <lastmod>2019-09-16T07:30:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nerophung.github.io/2019/03/28/tu-hoc-tensorflow-p4</loc>
+  <lastmod>2019-09-16T07:30:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nerophung.github.io/2019/03/11/tu-hoc-tensorflow-p3</loc>
+  <lastmod>2019-09-16T07:30:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nerophung.github.io/2019/02/26/tu-hoc-tensorflow-p2</loc>
+  <lastmod>2019-09-16T07:30:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nerophung.github.io/2019/02/15/tu-hoc-tensorflow-p1</loc>
+  <lastmod>2019-09-16T07:30:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nerophung.github.io/2019/06/05/mathjax</loc>
+  <lastmod>2019-09-16T07:30:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nerophung.github.io/2019/01/24/cach-su-dung-miniconda-de-quan-ly-python-packages</loc>
+  <lastmod>2019-09-16T07:30:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nerophung.github.io/page/3/</loc>
+  <lastmod>2019-09-16T07:30:15+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://nerophung.github.io/page/4/</loc>
+  <lastmod>2019-09-16T07:30:15+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
