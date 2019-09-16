@@ -89,8 +89,6 @@
   <link rel="stylesheet" href="{{ "/assets/css/main.css" | prepend: site.baseurl }}">
   <!-- Monokai code highlight -->
   <link rel="stylesheet" href="{{ "/assets/css/monokai.css" | prepend: site.baseurl }}">
-  <!-- Google Analysis -->
-  <meta name="google-site-verification" content="-5QKqz2ucgFj-AWbN2Z7HikBzJAckmjqGVMKea2Ahpk" />
   <!-- MathJax -->
   <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
   <script type="text/x-mathjax-config">
@@ -114,5 +112,14 @@
       google_ad_client: "ca-pub-1152895175622993",
       enable_page_level_ads: true
     });
+  </script>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-148058230-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-148058230-1');
   </script>
 </head>

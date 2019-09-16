@@ -28,7 +28,7 @@ facebook-like-size: small # small, large
 
 
 # Tracker
-analytics: # Google Analytics
+analytics: UA-148058230-1 # Google Analytics
 # Hightlight code
 highlighter: rouge
 # Build Settings
