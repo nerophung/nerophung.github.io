@@ -10,10 +10,10 @@ category: [Tensorflow]
 tags: [Self Learning Tensorflow]
 permalink: /2019/04/25/tu-hoc-tensorflow-p5
 ---
-Trong phần trước [Tự học Tensorflow [P4] - Linear Regression with Tensorflow]({{site.url}}/tu-hoc-tensorflow-p4) mình đã thực hiện giải quyết bài toán **`Linear Regression`** bằng những lý thuyết đã giới thiệu trong những bài viết trước đó của **`Tensorflow`**. Hôm nay, mình sẽ tiếp tục giới thiệu cách chuẩn bị dữ liệu training cho bài toán **Classification** đơn giản. Nếu chưa theo dõi nhưng phần trước thì bạn có thể tham khảo thêm:
-* [2.Tự học Tensorflow [P2] - Session, Feeding]({{site.url}}/tu-hoc-tensorflow-p2)
-* [3.Tự học Tensorflow [P3] - Dataset, Layer]({{site.url}}/tu-hoc-tensorflow-p3)
-* [4.Tự học Tensorflow [P4] - Linear Regression with Tensorflow]({{site.url}}/tu-hoc-tensorflow-p4)
+Trong phần trước [Tự học Tensorflow [P4] - Linear Regression with Tensorflow]({{site.url}}/2019/03/28/tu-hoc-tensorflow-p4) mình đã thực hiện giải quyết bài toán **`Linear Regression`** bằng những lý thuyết đã giới thiệu trong những bài viết trước đó của **`Tensorflow`**. Hôm nay, mình sẽ tiếp tục giới thiệu cách chuẩn bị dữ liệu training cho bài toán **Classification** đơn giản. Nếu chưa theo dõi nhưng phần trước thì bạn có thể tham khảo thêm:
+* [2.Tự học Tensorflow [P2] - Session, Feeding]({{site.url}}/2019/02/26/tu-hoc-tensorflow-p2)
+* [3.Tự học Tensorflow [P3] - Dataset, Layer]({{site.url}}/2019/03/11/tu-hoc-tensorflow-p3)
+* [4.Tự học Tensorflow [P4] - Linear Regression with Tensorflow]({{site.url}}/2019/03/28/tu-hoc-tensorflow-p4)
 
 * TOC
 {:toc}

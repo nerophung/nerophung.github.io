@@ -11,8 +11,8 @@ tags: [Self Learning Tensorflow]
 permalink: /2019/05/28/tu-hoc-tensorflow-p6
 ---
 Tiếp tục series về Tensorflow, trong phạm vi bài viết này, mình sẽ đi sâu vào một thành phần chính của Tensorflow đó chính là **tf.Tensor**. Nếu đây là lần đầu tiếp xúc với Tensorlfow, bạn có thể tham khảo những bài viết trước của mình.
-* [1.Tự học Tensorflow [P4] - Linear Regression with Tensorflow]({{site.url}}/tu-hoc-tensorflow-p4)
-* [2.Tự học Tensorflow [P5] - Tạo TFRecord file dùng cho Training]({{site.url}}/tu-hoc-tensorflow-p5)
+* [1.Tự học Tensorflow [P4] - Linear Regression with Tensorflow]({{site.url}}/2019/03/28/tu-hoc-tensorflow-p4)
+* [2.Tự học Tensorflow [P5] - Tạo TFRecord file dùng cho Training]({{site.url}}/2019/04/25/tu-hoc-tensorflow-p5)
 
 * TOC
 {:toc}

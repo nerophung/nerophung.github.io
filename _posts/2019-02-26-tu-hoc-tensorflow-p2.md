@@ -10,7 +10,7 @@ category: [Tensorflow]
 tags: [Self Learning Tensorflow]
 permalink: /2019/02/26/tu-hoc-tensorflow-p2
 ---
-Tiếp tục series [Tự học Tensorflow [P1] - Tensor, Graph, TensorBoard]({{site.url}}/tu-hoc-tensorflow-p1) , hôm nay mình xin chia sẻ tiếp về quá trình học tập của mình. Nếu có gì không đúng mọi người comment ở cuối bài viết nhé :D
+Tiếp tục series [Tự học Tensorflow [P1] - Tensor, Graph, TensorBoard]({{site.url}}/2019/02/15/tu-hoc-tensorflow-p1) , hôm nay mình xin chia sẻ tiếp về quá trình học tập của mình. Nếu có gì không đúng mọi người comment ở cuối bài viết nhé :D
 
 * TOC
 {:toc}
@@ -23,7 +23,7 @@ Trong phạm vi bài viết này, mình sẽ đề cập tới những nội dun
 
 ### Session
 
-Như đã chia sẻ ở phần [Graph]({{site.url}}/tu-hoc-tensorflow-p1), khi `print` một Tensor sẽ không trả về giá trị của Tensor mà chỉ trả về cấu trúc của Tensor. Việc này giống như một cỗ máy chỉ chạy khi có dòng điện chảy qua, và **Session** ở đây đóng vai trò như công tác đóng mở dòng điện chảy vào Graph.
+Như đã chia sẻ ở phần [Graph]({{site.url}}/2019/02/15/tu-hoc-tensorflow-p1), khi `print` một Tensor sẽ không trả về giá trị của Tensor mà chỉ trả về cấu trúc của Tensor. Việc này giống như một cỗ máy chỉ chạy khi có dòng điện chảy qua, và **Session** ở đây đóng vai trò như công tác đóng mở dòng điện chảy vào Graph.
 <p align="center"><img src="{{page.image-dir}}/session.png"/></p>
 Nếu coi `tf.Graph` như một file `.py` thì Session chính là lệnh thực thi `python`.
 Chúng ta khởi chạy Graph bằng việc gọi đến phương thức `run` của lớp `Session`
@@ -32,7 +32,7 @@ Chúng ta khởi chạy Graph bằng việc gọi đến phương thức `run` c
 sess = tf.Session()
 print(sess.run(total))
 ```
-Biến `total` đã được ta khởi tạo ở [P1]({{site.url}}/tu-hoc-tensorflow-p1). Kết quả trả về:
+Biến `total` đã được ta khởi tạo ở [P1]({{site.url}}/2019/02/15/tu-hoc-tensorflow-p1). Kết quả trả về:
 ```
 7.0
 ```

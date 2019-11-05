@@ -10,9 +10,9 @@ category: [Tensorflow]
 tags: [Self Learning Tensorflow]
 permalink: /2019/03/11/tu-hoc-tensorflow-p3
 ---
-Ở phần trước [Tự học Tensorflow [P2] - Session, Feeding]({{site.url}}/tu-hoc-tensorflow-p2), mình đã nhắc tới 2 thành phần cơ bản của **Tensorflow** đó là **`tf.Session`** và **`Feeding`**. Trong phạm vi bài viết này, mình xin đề cập tới 2 nội dung quan trọng khi training một models với Tensorflow. Nếu chưa theo dõi nhưng phần trước thì bạn có thể tham khảo thêm:
-* [1.Tự học Tensorflow [P1] - Tensor, Graph, TensorBoard]({{site.url}}/tu-hoc-tensorflow-p1)
-* [2.Tự học Tensorflow [P2] - Session, Feeding]({{site.url}}/tu-hoc-tensorflow-p2)
+Ở phần trước [Tự học Tensorflow [P2] - Session, Feeding]({{site.url}}/2019/02/26/tu-hoc-tensorflow-p2), mình đã nhắc tới 2 thành phần cơ bản của **Tensorflow** đó là **`tf.Session`** và **`Feeding`**. Trong phạm vi bài viết này, mình xin đề cập tới 2 nội dung quan trọng khi training một models với Tensorflow. Nếu chưa theo dõi nhưng phần trước thì bạn có thể tham khảo thêm:
+* [1.Tự học Tensorflow [P1] - Tensor, Graph, TensorBoard]({{site.url}}/2019/02/15/tu-hoc-tensorflow-p1)
+* [2.Tự học Tensorflow [P2] - Session, Feeding]({{site.url}}/2019/02/26/tu-hoc-tensorflow-p2)
 
 * TOC
 {:toc}

@@ -10,10 +10,10 @@ category: [Tensorflow]
 tags: [Self Learning Tensorflow]
 permalink: /2019/03/28/tu-hoc-tensorflow-p4
 ---
-Ngoài những bài học lí thuyết từ phần trước [Tự học Tensorflow [P3] - Dataset, Layer]({{site.url}}/tu-hoc-tensorflow-p3) thì chúng ta cũng cần những giờ thực hành để ghi nhớ kiến thức, trong phạm vi bài viết này mình sẽ chia sẻ về cách giải quyết một bài toán **`Linear Regression`** đơn giản bằng **Tensorflow**. Nếu chưa theo dõi nhưng phần trước thì bạn có thể tham khảo thêm:
+Ngoài những bài học lí thuyết từ phần trước [Tự học Tensorflow [P3] - Dataset, Layer]({{site.url}}/2019/03/11/tu-hoc-tensorflow-p3) thì chúng ta cũng cần những giờ thực hành để ghi nhớ kiến thức, trong phạm vi bài viết này mình sẽ chia sẻ về cách giải quyết một bài toán **`Linear Regression`** đơn giản bằng **Tensorflow**. Nếu chưa theo dõi nhưng phần trước thì bạn có thể tham khảo thêm:
 * [1.Tự học Tensorflow [P1] - Tensor, Graph, TensorBoard]({{site.url}}/tu-hoc-tensorflow-p1)
-* [2.Tự học Tensorflow [P2] - Session, Feeding]({{site.url}}/tu-hoc-tensorflow-p2)
-* [3.Tự học Tensorflow [P3] - Dataset, Layer]({{site.url}}/tu-hoc-tensorflow-p3)
+* [2.Tự học Tensorflow [P2] - Session, Feeding]({{site.url}}/2019/02/26/tu-hoc-tensorflow-p2)
+* [3.Tự học Tensorflow [P3] - Dataset, Layer]({{site.url}}/2019/03/11/tu-hoc-tensorflow-p3)
 
 * TOC
 {:toc}
